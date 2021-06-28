@@ -56,7 +56,7 @@ This analysis is done to assess credit risk of applicants using machine learning
 
 6.Easy Ensemble Classifier
 
-![](https://github.com/mdabbous88/Credit_Risk_Analysis/blob/main/EasyEnsembleClassifier.png)
+![](https://github.com/mdabbous88/Credit_Risk_Analysis/blob/main/Easy%20ensemble.png)
 
 -The balanced accuracy score for the random oversampler is 0.92, which tells that the model has predict 92% of the test sample correctly. 
 
