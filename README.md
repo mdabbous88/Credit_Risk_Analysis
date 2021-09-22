@@ -1,9 +1,9 @@
 # Credit_Risk_Analysis
 
-#Overview of the Analysis
+## Overview of the Analysis
 This analysis is done to assess credit risk of applicants using machine learning. Several different machine learning techniques are applied , then the models are assessed to choose the best technique that applies to this type of problem.
 
-#Results: 
+## Results: 
 1.Random oversampler
 ![](https://github.com/mdabbous88/Credit_Risk_Analysis/blob/main/Random%20oversampler.png)
 
@@ -66,7 +66,7 @@ This analysis is done to assess credit risk of applicants using machine learning
 
 
 
-#Summary:
+## Summary:
 Since the business is to check the risk of the applicant, the most important aspect is if the model misses a high risk applicant and lables the applicant as low risk.
 
 So, all the models reslts show moderate sensitivity in detecting high risk except for the EasyEnsembleClassifier model which has a very high sensitivity of 0.94 in detecting high risk applicants. Also, this models has a 92% balanced accuracy score which is a very good score in prediciting the risk.
